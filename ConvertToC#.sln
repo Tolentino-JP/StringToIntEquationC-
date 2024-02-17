@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operation", "Pemdas\Operation.csproj", "{1402C7A0-5C77-49C0-B347-8E621D89929D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationConsole", "OperationConsole\OperationConsole.csproj", "{2A14CD09-806A-4877-996C-7FC582AE834C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1402C7A0-5C77-49C0-B347-8E621D89929D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1402C7A0-5C77-49C0-B347-8E621D89929D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1402C7A0-5C77-49C0-B347-8E621D89929D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1402C7A0-5C77-49C0-B347-8E621D89929D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A14CD09-806A-4877-996C-7FC582AE834C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A14CD09-806A-4877-996C-7FC582AE834C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A14CD09-806A-4877-996C-7FC582AE834C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A14CD09-806A-4877-996C-7FC582AE834C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10FF645A-9B62-4275-93D7-CB04C51B5BB5}
+	EndGlobalSection
+EndGlobal
